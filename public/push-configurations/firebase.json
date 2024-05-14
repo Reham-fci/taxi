@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tagxi-super-d07e5",
+  "private_key_id": "24e14bf693",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEV94ghlGOXqumHshycHX8pO0HxzeaVv683AJNn7lJrzFfpdEQx\nrTa3QfbEiC/v1xv7yY6BeRYWdQTb6kwP2cw85o2y4r7V0WwprY9Hj2xYk2VFOdW4\ncsURQ6sbpPaW6gwDRZNZd4c75/+pVVjx1sEr2GofYsb/m+uCBUKDOxMHD2LEPmxT\nZDGuT84fAgMBAAECggEAC78FZhJV5f2EJvsYTEMwmIsnIATsyEsBhCfZILQuv88Z\nCEm+1jlRZDK6o3yz2PZQKNQ7ceR+v5VTAhGICRiVX4NG79PdbP9QlqkYDJeBaX5E\n6P2aIUm2zWBB9XN3tk8ek9y2K+U5tBPCgsIXTep8L1VCIiMGXnGVxkTxhgrBR2de\neSjzE5iMZO7CpZfxyy4p1ngi0oM72W4hruQBabbet2IoZJgg3XnZKZzKM/iq1/xL\nGKhgX4GLjpCPT5k2eqmT2p0qHx7FdBN4/Gq8IETcBdvb3WlBgSoE6l9Gox2y12cO\ntZWr0quIGQe8VrV0nyLWLA3aL5WIk73exrxjTW/4IQKBgQDXzsncDLQwf/gPD2vJ\nPD/qy2+QTDZO5caEeJHHd4yp0NiyUZI10ydTt0d1Z0l8F+oEEHjC0lHDPcT4q1Qy\ntklYxs3VOYp6nYZu2/iwiRH+rTs+S/QShCxajmXEWmVU4jFv3KDGP9FowjdOgyPE\n8tG77UrunSJSQzlggNFPm58pkQKBgQDRQyoXs24Z4zmDlx41mnOVjh+3a42i/jxb\nB7Nbk9cE5aYMDvHZo7SB2jZI46itKHA4UEXolTYsUKrGizs46xlNpAYyQqOCwe2a\n5DClufE+K5zhOYrJrwspQme3RAwJzvLWQsVVC7h3nDtt4IcdOHHhNIq4hBVYhB1K\niNWqGwokrwKBgAXv53fJVa+75YwshW+c27lO7XvPzPKwuZxtYL1XGaSWXU/SlK4s\nZ/mSokGlnMzwL3z7IwdhF+TCL0gUFpXqk+wAVCtYkOm8qbUlEhtxOfCCvY2CM23K\n+xlmr4AOaJlEO83zCO1LViyGo1TioLpLX9/GsHgOFKKkvNBd2uRQyLkxAoGBAMP0\nKeFhwxL4xO2lP8OgKuX73VVLoKjley0ey+RQT0OlrFSUVgKgGjKSXMzqahQjztnc\nyWne94iNzSz4Se+lrt8WXjsITcbuxAmL7sXxlabK/i+lS4JKqJ/tL+PcE43HvXvH\nsLNPs2BF6xyb6MoDBhiFs/TOspJdvHQEKFgO0/O/AoGAVxERuHuxpBeiWiqdTY+9\nrqH7YOCCaoT9tpYZug7Z0yYLauR4M1/grR16fMMa7zuutLiAzugHV2Z7J2pAQ6jO\nFtyKLTvJPdtJZ3y/FJL85KJTgPQkiHTxzwJM71XeAVm34BlsY33fJZkDvSZHT+5E\nS3fOb06gGzwzDXWKi+0e3W4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qhfkh@tagxi-super-d07e5.iam.gserviceaccount.com",
+  "client_id": "1174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdaccount.com",
+  "universe_domain": "googleapis.com"
+}
